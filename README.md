@@ -31,7 +31,7 @@ Downloaded cis-eQTL data in [BESD format](https://yanglab.westlake.edu.cn/data/S
 Data sourced from: [Qi, T., Wu, Y., Zeng, J. et al. Identifying gene targets for brain-related traits using transcriptomic and methylomic data from blood. Nat Commun 9, 2282 (2018). https://doi.org/10.1038/s41467-018-04558-1](https://www.nature.com/articles/s41467-018-04558-1)
 
 ## Processing Pipeline
-1. Format data files as necessary -- for our pipeline, only processing necessary was for GWAS summary data.
+1. Format data files as necessary -- for our pipeline, only data processing/cleaning necessary was for GWAS summary data.
 2. Run SMR command with reference file dataset adni.bim / adni.bed / adni.fam, summary data set summary.ma, eQTL file qi.beqtl
 
 ```
