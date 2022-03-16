@@ -37,3 +37,4 @@ Data sourced from: [Qi, T., Wu, Y., Zeng, J. et al. Identifying gene targets for
 ```
 smr --bfile adni --gwas-summary summary.ma --beqtl-summary qi --out outfile_name_here --thread-num 10
 ```
+3. Sample output in `output` folder.
