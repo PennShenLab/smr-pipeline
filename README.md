@@ -34,5 +34,6 @@ Data sourced from: [Qi, T., Wu, Y., Zeng, J. et al. Identifying gene targets for
 1. Format data files as necessary -- for our pipeline, only processing necessary was for GWAS summary data.
 2. Run SMR command with reference file dataset adni.bim / adni.bed / adni.fam, summary data set summary.ma, eQTL file qi.beqtl
 
-> smr --bfile adni --gwas-summary summary.ma --beqtl-summary qi --out outfile_name_here --thread-num 10
-> s
+```
+smr --bfile adni --gwas-summary summary.ma --beqtl-summary qi --out outfile_name_here --thread-num 10
+```
