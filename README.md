@@ -1,11 +1,10 @@
 # smr-pipeline
 
-# Shen Lab SMR Pipeline
+# Shen Lab SMR Pipeline (16 March 2022)
 ## Brian Lee; Xiaohui Yao, PhD; Li Shen, PhD
 ### Perelman School of Medicine 
 ### University of Pennsylvania
 
-## 16 March 2022
 
 (MIT License applies)
 
