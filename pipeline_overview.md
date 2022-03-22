@@ -21,7 +21,7 @@ Request and download PLINK files from [ADNI](https://adni.loni.usc.edu).
 ### GWAS Summary Data
 
 Three sets of summary statistics were used:
-- [IGAP Combined Dataset](www.niagads.org/datasets/ng00036).
+- [IGAP Combined Dataset](https://www.niagads.org/datasets/ng00036).
 - [Jansen et al., 2019 Summary Statistics](https://ctg.cncr.nl/software/summary_statistics)
 - [Kunkle et al., 2019 Summary Statistics](https://www.niagads.org/datasets/ng00075)
 
