@@ -16,7 +16,7 @@ Download here: https://yanglab.westlake.edu.cn/software/smr/#Download (v1.03)
 ## **Data Resource**
 
 ### Genotyping Reference Data
-Request and download PLINK files from [ADNI](adni.loni.usc.edu).
+Request and download PLINK files from [ADNI](https://adni.loni.usc.edu).
 
 ### GWAS Summary Data
 
